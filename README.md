@@ -1,7 +1,7 @@
 # Microsoft-Bing
-Hi Freinds
+Hi Freinds 👋
 
-This is the outcome of this project!
+This is the outcome of this project! ✨
 
 [Uploading Screenshot 2022-03-10 164438.png…]()
 
@@ -11,4 +11,4 @@ Extract the file
 
 Click the 'index' file in you file explorer on you windows system
 
-Ta-Da!!!!!!
+Ta-Da!! 🎉🎊
